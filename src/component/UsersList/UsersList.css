@@ -1,0 +1,11 @@
+
+
+.container_userslist{
+          width: 80%;
+          border-radius: 2rem;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          gap: 0.7rem;
+}
